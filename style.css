@@ -1,5 +1,4 @@
 :root {
-    --font-family: 'sans-serif', 'Impact', 'Arial Narrow Bold';
     --primary-bg-color: #e2e8f0;
     --header-bg-color: #FFFFFF;
     --accent-color: #1992d4;
@@ -10,7 +9,7 @@
 }
 
 * {
-    font-family: var(--font-family);
+    font-family: 'Times New Roman', Times, serif;
 }
 
 body {
